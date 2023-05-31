@@ -1,0 +1,1 @@
+	MyBank is a simple banking application implemented in C. It provides basic banking functionalities such as creating an account, transferring money, depositing money, checking the account balance, and generating transaction receipts.
